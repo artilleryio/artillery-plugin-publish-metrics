@@ -14,7 +14,7 @@
   "author": "",
   "license": "MPL-2.0",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "datadog-metrics": "^0.9.3",
     "debug": "^4.1.1",
     "dogapi": "^2.8.4",
