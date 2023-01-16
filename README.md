@@ -1,3 +1,10 @@
+# this plugin has been moved to the main monorepo:
+
+https://github.com/artilleryio/artillery/tree/main/packages/artillery-plugin-publish-metrics
+
+
+----
+
 # artillery-plugin-publish-metrics
 
 [![CircleCI](https://circleci.com/gh/artilleryio/artillery-plugin-publish-metrics.svg?style=svg)](https://circleci.com/gh/artilleryio/artillery-plugin-publish-metrics)
